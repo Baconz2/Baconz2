@@ -7,4 +7,6 @@ i'm baconz, a 13 year old who codes sorta. you'll find such things as: a lot of 
 
 ### contact me
 
-if you for whatever reason wanna contact me, twitter i guess
+if you for whatever reason wanna contact me, [twitter](https://twitter.com/BaconEvyn) i guess
+
+heck maybe even [mastodon](https://mas.to/@baconz)
