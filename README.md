@@ -7,6 +7,6 @@ i'm evyn, a 13 year old who codes sorta. you'll find such things as: a lot of fo
 
 ### contact me
 
-if you for whatever reason wanna contact me, [twitter](https://twitter.com/BaconEvyn) i guess
+if you for whatever reason wanna contact me, [twitter](https://twitter.com/evyn__) i guess
 
-heck maybe even [mastodon](https://mas.to/@baconz)
+heck maybe even [by email for some reason](mailto:baconz@disroot.org)
