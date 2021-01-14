@@ -5,8 +5,9 @@ heyo, welcome to my github profile
 i'm evyn, a 13 year old who codes sorta. you'll find such things as: a lot of forks, like two or three original projects, and more
 
 
-### contact me
+### ayo the pizza here
 
-if you for whatever reason wanna contact me, [twitter](https://twitter.com/evyn__) i guess
+[twitter](https://twitter.com/evyn__)
 
-heck maybe even [by email for some reason](mailto:baconz@disroot.org)
+[email](mailto:baconz@disroot.org)
+
