@@ -2,7 +2,7 @@
 
 heyo, welcome to my github profile 
 
-i'm evyn, a 14 year old who codes sorta. you'll find such things as: a lot of forks, like two or three original projects, and more
+i'm evyn, a 14 year old who codes sorta. you'll find such things as: bad code. a lot of awful code.
 
 
 ### yell at me
