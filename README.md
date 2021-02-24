@@ -9,5 +9,5 @@ i'm evyn, a 14 year old who codes sorta. you'll find such things as: a lot of fo
 
 [mastodon](https://mas.to/evynhh)
 
-[email](mailto:baconz@disroot.org)
+or if you prefer email, baconz at disroot dot org
 
