@@ -9,5 +9,4 @@ i'm evyn, a 14 year old who codes sorta. you'll find such things as: bad code. a
 
 [mastodon](https://mas.to/evynhh)
 
-or if you prefer email/xmpp, baconz at disroot dot org
-
+or if you prefer email/xmpp, it's on my profile
